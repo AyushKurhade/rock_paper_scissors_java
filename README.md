@@ -45,6 +45,20 @@ You Win 🎉
 - `java.util.Scanner` — for user input
 - `java.util.Random` — for computer's random choice
 
+
+## 🖥️ Screenshots
+
+### 🎮 Editor Screen
+![Editor Screen](assets/EditorScreen.png)
+
+### 👤 User Choice
+![User Choice](assets/UserChoice.png)
+
+### 🏆 Result
+![Result](assets/Result.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
