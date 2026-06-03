@@ -11,6 +11,7 @@ A simple command-line Rock Paper Scissors game built in Java.
 
 ## 🕹️ Game Rules
 
+
 | Your Choice | Beats |
 |-------------|-------|
 | 🪨 Rock     | Scissors |
